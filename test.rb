@@ -6,4 +6,8 @@ class Test
   def fuga
     'fugafuga'
   end
+
+  def gyo
+    'gyogyogyo'
+  end
 end
